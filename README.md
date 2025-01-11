@@ -2,7 +2,7 @@
 
 PlagiarismChecker is an AI-driven tool designed to detect and analyze text similarities, helping users identify potential instances of plagiarism. Leveraging advanced data analytics and machine learning techniques, it provides accurate and efficient plagiarism detection.
 
-![PlagiarismChecker Banner](https://via.placeholder.com/800x200.png?text=PlagiarismChecker)
+![PlagiarismChecker Banner]([https://via.placeholder.com/800x200.png?text=PlagiarismChecker](https://plagiarismcheckerx.com/assets/images/press/logo-blue-black-500x180.jpg))
 
 ## Features
 
