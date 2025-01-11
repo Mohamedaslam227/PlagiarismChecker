@@ -44,7 +44,7 @@ Ensure you have the following installed:
 
 4. **Run the Application**:
    ```bash
-   python main.py
+   python project.py
    ```
 
 ---
